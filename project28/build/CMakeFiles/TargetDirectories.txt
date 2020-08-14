@@ -1,0 +1,3 @@
+D:/vs project/project28/build/CMakeFiles/Brass.dir
+D:/vs project/project28/build/CMakeFiles/ALL_BUILD.dir
+D:/vs project/project28/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^D:\VS PROJECT\PROJECT28\CMAKELISTS.TXT
+setlocal
+D:\cmake\cmake-3.18.0-win64-x64\cmake-3.18.0-win64-x64\bin\cmake.exe "-SD:/vs project/project28" "-BD:/vs project/project28/build" --check-stamp-file "D:/vs project/project28/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
