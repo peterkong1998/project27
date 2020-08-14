@@ -1,0 +1,10 @@
+^D:\VS PROJECT\PROJECT27\BUILD\CMAKEFILES\03724322F039FDE053A96BF33E6EFBC8\GENERATE.STAMP.RULE
+setlocal
+D:\cmake\cmake-3.18.0-win64-x64\cmake-3.18.0-win64-x64\bin\cmake.exe "-SD:/vs project/project27" "-BD:/vs project/project27/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/vs project/project27/build/string.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

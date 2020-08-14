@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/CMakeCInformation.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/CMakeCXXInformation.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/CMakeGenericSystem.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/CMakeRCInformation.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/Compiler/MSVC-C.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/Compiler/MSVC-CXX.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/Platform/Windows-MSVC-C.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/Platform/Windows-MSVC.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/Platform/Windows.cmake
+D:/cmake/cmake-3.18.0-win64-x64/cmake-3.18.0-win64-x64/share/cmake-3.18/Modules/Platform/WindowsPaths.cmake
+D:/vs project/project27/CMakeLists.txt
+D:/vs project/project27/build/CMakeFiles/3.18.0/CMakeCCompiler.cmake
+D:/vs project/project27/build/CMakeFiles/3.18.0/CMakeCXXCompiler.cmake
+D:/vs project/project27/build/CMakeFiles/3.18.0/CMakeRCCompiler.cmake
+D:/vs project/project27/build/CMakeFiles/3.18.0/CMakeSystem.cmake
